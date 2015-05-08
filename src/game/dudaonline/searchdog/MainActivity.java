@@ -19,6 +19,8 @@ import android.view.WindowManager;
 import android.widget.RelativeLayout;
 
 
+// New comment for git testing
+
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
  * status bar and navigation/system bar) with user interaction.
